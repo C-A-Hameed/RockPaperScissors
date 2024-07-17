@@ -89,7 +89,7 @@ h1 {
 
     .choices button {
         font-size: 4rem;
-        min-width: 120px;
+        min-width: 100px;
     }
 
     #playerDisplay, #computerDisplay {
